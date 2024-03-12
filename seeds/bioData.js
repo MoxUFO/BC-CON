@@ -3,7 +3,7 @@ const { Bio } = require('../models');
 const bioData =[
   {
     user_id: 1,
-    birth_day: 05-02-1993,
+    birth_day: "05-02-1993",
     linkedin: "mox.ufo@gmaail.com",
     github: "https://github.com/MoxUFO",
     favorite_hobby: "video games, football , Dungeons and Dragons",
